@@ -907,6 +907,7 @@ shell-exec
 should
 simple-markdown
 smooth-scrollbar
+snaply
 socket.io
 socket.io-client
 sonic-boom
